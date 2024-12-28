@@ -1,0 +1,36 @@
+{
+  "name": "skycode-dark",
+  "displayName": "SkyCode Dark",
+  "description": "The minimalist dark theme for vscode",
+  "version": "0.0.2",
+  "publisher": "AakashRajbhar",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aakash-Rajbhar/vs-code-theme.git"
+  },
+  "keywords": [
+    "SkyCode",
+    "skycode",
+    "skycode-dark",
+    "theme",
+    "dark",
+    "dark theme",
+    "minimalist theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SkyCode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SkyCode Dark-color-theme.json"
+      }
+    ]
+  }
+}
