@@ -2,7 +2,7 @@
   "name": "skycode-dark",
   "displayName": "SkyCode Dark",
   "description": "The minimalist dark theme for vscode",
-  "version": "0.0.2",
+  "version": "0.1.4",
   "publisher": "AakashRajbhar",
   "icon": "icon.png",
   "engines": {

@@ -1,18 +1,25 @@
 # skycode-dark README
 
--This repository consisit the files for the vs-code theme called skycode dark
+-A minimalist and modern theme for vs-code,
+designed to reduce eye strain and provide a comfortable coding experience.
 
-## Working with Markdown
+## Features
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- Dark background with vibrant colors for syntax highlighting.
+- Easy on the eyes during long coding sessions.
+- Supports a wide range of programming languages.
+- Customizable settings to match your preferences.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open the Extensions view (`Ctrl+Shift+X`).
+2. Search for `skycode-dark`.
+3. Click `Install` to install the theme.
+4. Click `Reload` to reload your editor.
+5. Navigate to File > Preferences > Color Theme > **skycode-dark** to activate the theme.
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Contributing
+
+If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/aakash-rajbhar/skycode-dark).
 
 **Enjoy!**
